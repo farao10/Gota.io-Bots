@@ -1,5 +1,10 @@
-Add your HTTP proxies here
-
-If you want free proxies go to webshare.io , get their rotating proxies , update your ip on their site and copy paste their rotating proxy here 50-60 times.
-
-Enjoy
+185.199.228.220
+2.56.119.93
+185.199.229.156
+185.199.231.45
+188.74.210.207
+188.74.183.10
+188.74.210.21
+45.155.68.129
+154.95.36.199
+45.94.47.66
